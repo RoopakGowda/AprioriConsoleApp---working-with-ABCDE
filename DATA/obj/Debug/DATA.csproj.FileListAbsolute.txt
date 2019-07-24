@@ -1,0 +1,16 @@
+D:\TechTalk-2017\Apriori-Algorithm-master\Apriori-Algorithm-master\DATA\bin\Debug\DATA.dll
+D:\TechTalk-2017\Apriori-Algorithm-master\Apriori-Algorithm-master\DATA\bin\Debug\DATA.pdb
+D:\TechTalk-2017\Apriori-Algorithm-master\Apriori-Algorithm-master\DATA\obj\Debug\DATA.csprojResolveAssemblyReference.cache
+D:\TechTalk-2017\Apriori-Algorithm-master\Apriori-Algorithm-master\DATA\obj\Debug\DATA.dll
+D:\TechTalk-2017\Apriori-Algorithm-master\Apriori-Algorithm-master\DATA\obj\Debug\DATA.pdb
+D:\TechTalk-2017\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\DATA\bin\Debug\DATA.dll
+D:\TechTalk-2017\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\DATA\bin\Debug\DATA.pdb
+D:\TechTalk-2017\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\DATA\obj\Debug\DATA.csprojResolveAssemblyReference.cache
+D:\TechTalk-2017\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\DATA\obj\Debug\DATA.dll
+D:\TechTalk-2017\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\DATA\obj\Debug\DATA.pdb
+D:\techTalk\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\DATA\bin\Debug\DATA.dll
+D:\techTalk\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\DATA\bin\Debug\DATA.pdb
+D:\techTalk\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\DATA\obj\Debug\DATA.csprojAssemblyReference.cache
+D:\techTalk\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\DATA\obj\Debug\DATA.csproj.CoreCompileInputs.cache
+D:\techTalk\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\DATA\obj\Debug\DATA.dll
+D:\techTalk\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\DATA\obj\Debug\DATA.pdb

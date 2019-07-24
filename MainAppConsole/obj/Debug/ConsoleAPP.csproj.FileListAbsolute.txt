@@ -1,0 +1,32 @@
+D:\TechTalk-2017\Apriori-Algorithm-master\Apriori-Algorithm-master\MainAppConsole\bin\Debug\MainAppConsole.exe.config
+D:\TechTalk-2017\Apriori-Algorithm-master\Apriori-Algorithm-master\MainAppConsole\bin\Debug\MainAppConsole.exe
+D:\TechTalk-2017\Apriori-Algorithm-master\Apriori-Algorithm-master\MainAppConsole\bin\Debug\MainAppConsole.pdb
+D:\TechTalk-2017\Apriori-Algorithm-master\Apriori-Algorithm-master\MainAppConsole\obj\Debug\ConsoleAPP.csprojResolveAssemblyReference.cache
+D:\TechTalk-2017\Apriori-Algorithm-master\Apriori-Algorithm-master\MainAppConsole\obj\Debug\MainAppConsole.exe
+D:\TechTalk-2017\Apriori-Algorithm-master\Apriori-Algorithm-master\MainAppConsole\obj\Debug\MainAppConsole.pdb
+D:\TechTalk-2017\Apriori-Algorithm-master\Apriori-Algorithm-master\MainAppConsole\bin\Debug\DATA.dll
+D:\TechTalk-2017\Apriori-Algorithm-master\Apriori-Algorithm-master\MainAppConsole\bin\Debug\DATA.pdb
+D:\TechTalk-2017\Apriori-Algorithm-master\Apriori-Algorithm-master\MainAppConsole\bin\Debug\AprioriAlgorithm.dll
+D:\TechTalk-2017\Apriori-Algorithm-master\Apriori-Algorithm-master\MainAppConsole\bin\Debug\AprioriAlgorithm.pdb
+D:\TechTalk-2017\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\MainAppConsole\bin\Debug\MainAppConsole.exe.config
+D:\TechTalk-2017\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\MainAppConsole\obj\Debug\MainAppConsole.exe
+D:\TechTalk-2017\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\MainAppConsole\obj\Debug\MainAppConsole.pdb
+D:\TechTalk-2017\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\MainAppConsole\bin\Debug\MainAppConsole.exe
+D:\TechTalk-2017\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\MainAppConsole\bin\Debug\MainAppConsole.pdb
+D:\TechTalk-2017\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\MainAppConsole\bin\Debug\AprioriAlgorithm.dll
+D:\TechTalk-2017\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\MainAppConsole\bin\Debug\DATA.dll
+D:\TechTalk-2017\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\MainAppConsole\bin\Debug\AprioriAlgorithm.pdb
+D:\TechTalk-2017\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\MainAppConsole\bin\Debug\DATA.pdb
+D:\TechTalk-2017\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\MainAppConsole\obj\Debug\ConsoleAPP.csprojResolveAssemblyReference.cache
+D:\techTalk\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\MainAppConsole\bin\Debug\MainAppConsole.exe.config
+D:\techTalk\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\MainAppConsole\bin\Debug\MainAppConsole.exe
+D:\techTalk\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\MainAppConsole\bin\Debug\MainAppConsole.pdb
+D:\techTalk\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\MainAppConsole\bin\Debug\AprioriAlgorithm.dll
+D:\techTalk\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\MainAppConsole\bin\Debug\DATA.dll
+D:\techTalk\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\MainAppConsole\bin\Debug\AprioriAlgorithm.pdb
+D:\techTalk\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\MainAppConsole\bin\Debug\DATA.pdb
+D:\techTalk\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\MainAppConsole\obj\Debug\ConsoleAPP.csprojAssemblyReference.cache
+D:\techTalk\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\MainAppConsole\obj\Debug\ConsoleAPP.csproj.CoreCompileInputs.cache
+D:\techTalk\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\MainAppConsole\obj\Debug\ConsoleAPP.csproj.CopyComplete
+D:\techTalk\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\MainAppConsole\obj\Debug\MainAppConsole.exe
+D:\techTalk\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\MainAppConsole\obj\Debug\MainAppConsole.pdb

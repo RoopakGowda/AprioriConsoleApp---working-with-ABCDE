@@ -1,0 +1,31 @@
+C:\Users\Omar\Downloads\2-Apriori Source Code\AprioriAlgorithm\bin\Debug\AprioriAlgorithm.dll
+C:\Users\Omar\Downloads\2-Apriori Source Code\AprioriAlgorithm\bin\Debug\AprioriAlgorithm.pdb
+C:\Users\Omar\Downloads\2-Apriori Source Code\AprioriAlgorithm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omar\Downloads\2-Apriori Source Code\AprioriAlgorithm\obj\Debug\AprioriAlgorithm.dll
+C:\Users\Omar\Downloads\2-Apriori Source Code\AprioriAlgorithm\obj\Debug\AprioriAlgorithm.pdb
+C:\Users\Omar\Desktop\Git\Apriori Source Code\AprioriAlgorithm\bin\Debug\AprioriAlgorithm.dll
+C:\Users\Omar\Desktop\Git\Apriori Source Code\AprioriAlgorithm\bin\Debug\AprioriAlgorithm.pdb
+C:\Users\Omar\Desktop\Git\Apriori Source Code\AprioriAlgorithm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omar\Desktop\Git\Apriori Source Code\AprioriAlgorithm\obj\Debug\AprioriAlgorithm.dll
+C:\Users\Omar\Desktop\Git\Apriori Source Code\AprioriAlgorithm\obj\Debug\AprioriAlgorithm.pdb
+D:\Git\Apriori Source Code\AprioriAlgorithm\bin\Debug\AprioriAlgorithm.dll
+D:\Git\Apriori Source Code\AprioriAlgorithm\bin\Debug\AprioriAlgorithm.pdb
+D:\Git\Apriori Source Code\AprioriAlgorithm\obj\Debug\ResolveAssemblyReference.cache
+D:\Git\Apriori Source Code\AprioriAlgorithm\obj\Debug\AprioriAlgorithm.dll
+D:\Git\Apriori Source Code\AprioriAlgorithm\obj\Debug\AprioriAlgorithm.pdb
+D:\TechTalk-2017\Apriori-Algorithm-master\Apriori-Algorithm-master\AprioriAlgorithm\bin\Debug\AprioriAlgorithm.dll
+D:\TechTalk-2017\Apriori-Algorithm-master\Apriori-Algorithm-master\AprioriAlgorithm\bin\Debug\AprioriAlgorithm.pdb
+D:\TechTalk-2017\Apriori-Algorithm-master\Apriori-Algorithm-master\AprioriAlgorithm\obj\Debug\AprioriAlgorithm.csprojResolveAssemblyReference.cache
+D:\TechTalk-2017\Apriori-Algorithm-master\Apriori-Algorithm-master\AprioriAlgorithm\obj\Debug\AprioriAlgorithm.dll
+D:\TechTalk-2017\Apriori-Algorithm-master\Apriori-Algorithm-master\AprioriAlgorithm\obj\Debug\AprioriAlgorithm.pdb
+D:\TechTalk-2017\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\AprioriAlgorithm\bin\Debug\AprioriAlgorithm.dll
+D:\TechTalk-2017\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\AprioriAlgorithm\bin\Debug\AprioriAlgorithm.pdb
+D:\TechTalk-2017\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\AprioriAlgorithm\obj\Debug\AprioriAlgorithm.csprojResolveAssemblyReference.cache
+D:\TechTalk-2017\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\AprioriAlgorithm\obj\Debug\AprioriAlgorithm.dll
+D:\TechTalk-2017\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\AprioriAlgorithm\obj\Debug\AprioriAlgorithm.pdb
+D:\techTalk\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\AprioriAlgorithm\bin\Debug\AprioriAlgorithm.dll
+D:\techTalk\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\AprioriAlgorithm\bin\Debug\AprioriAlgorithm.pdb
+D:\techTalk\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\AprioriAlgorithm\obj\Debug\AprioriAlgorithm.csprojAssemblyReference.cache
+D:\techTalk\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\AprioriAlgorithm\obj\Debug\AprioriAlgorithm.csproj.CoreCompileInputs.cache
+D:\techTalk\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\AprioriAlgorithm\obj\Debug\AprioriAlgorithm.dll
+D:\techTalk\Custom - AprioriConsoleApp - working with ABCDE\Apriori-Algorithm-master\AprioriAlgorithm\obj\Debug\AprioriAlgorithm.pdb
